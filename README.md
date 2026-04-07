@@ -1,5 +1,7 @@
 # Inventory Management Case Study
 
+Case-study document: https://docs.google.com/document/d/1YWDZKoJFHYWgoCBL0rl-p8tz1EU8aIEwsMxglUEUoCA/edit?usp=sharing
+
 This repository contains solutions for:
 
 - Part 1: API Debugging
